@@ -1,0 +1,32 @@
+.post {
+    margin: auto;
+    width: 400px;
+    height:800px;
+    font-family: 'Roboto', sans-serif;
+    
+    
+
+}
+.post-principal {
+    padding: 10px 10px 20px 10px;
+
+}
+
+.parrafo12 {
+    justify-content: space-between;
+    display: inline;
+}
+.fa-solid {
+    float: right;
+
+}
+.ico-down {
+    padding-top: 20px;
+}
+.buttom-saved {
+    float: right;
+}
+.post-down {
+    padding-left: 10px;
+    padding-right: 10px;
+}
